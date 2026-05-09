@@ -130,8 +130,6 @@ The application window will launch automatically.
 
 ## 👨‍💻 Developed By
 
-**HSH Group** — COMSATS University Islamabad, Lahore Campus
-
 | Name | Roll No |
 |------|---------|
 | M Hannan Najeeb | FA24-BSE-080 |
