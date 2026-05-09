@@ -1,0 +1,5 @@
+C:/Users/hanna/OneDrive/Desktop/DSA PROJECT GUI/DSA-Project/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/CalendarSystem.dir
+C:/Users/hanna/OneDrive/Desktop/DSA PROJECT GUI/DSA-Project/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/hanna/OneDrive/Desktop/DSA PROJECT GUI/DSA-Project/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/hanna/OneDrive/Desktop/DSA PROJECT GUI/DSA-Project/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/CalendarSystem_autogen_timestamp_deps.dir
+C:/Users/hanna/OneDrive/Desktop/DSA PROJECT GUI/DSA-Project/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/CalendarSystem_autogen.dir
