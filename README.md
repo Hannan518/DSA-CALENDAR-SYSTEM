@@ -7,6 +7,7 @@ A feature-rich desktop Calendar application built in **C++ with Qt**, powered by
 ## 🖥️ Application Preview
 
 > Clean, modern GUI with month navigation, event search, and a real-time event panel.
+> ![DSA Calendar System](screenshot.png)
 
 ---
 
